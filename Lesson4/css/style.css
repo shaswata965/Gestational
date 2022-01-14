@@ -218,30 +218,30 @@
 @media  only screen and (max-width: 392px) and (min-width: 360px) {
     .page-indicator{
         display: inline-block;
-        width: 20px;
+        width: 15px;
         height: 7px;
         border-radius: 5px;
         background-color: #d7d6d6;
-        margin: 0 1.4px 5px 1.4px;
+        margin: 0 1.5px 4px 1.5px;
     }
 }
 
 @media  only screen and (max-width: 412px) and (min-width: 393px) {
     .page-indicator{
         display: inline-block;
-        width: 22.5px;
+        width: 17px;
         height: 7px;
         border-radius: 5px;
         background-color: #d7d6d6;
-        margin: 0 1.6px 5px 1.6px;
+        margin: 0 1.7px 4px 1.7px;
     }
 }
 
 @media  only screen and (max-width: 445px) and (min-width: 413px) {
     .page-indicator{
         display: inline-block;
-        width: 24px;
-        height: 8px;
+        width: 18px;
+        height: 7px;
         border-radius: 5px;
         background-color: #d7d6d6;
         margin: 0 1.8px 4px 1.8px;
@@ -251,8 +251,8 @@
 @media  only screen and (max-width: 460px) and (min-width: 446px) {
     .page-indicator{
         display: inline-block;
-        width: 26.5px;
-        height: 8px;
+        width: 20px;
+        height: 7px;
         border-radius: 5px;
         background-color: #d7d6d6;
         margin: 0 2px 4px 2px;
@@ -262,10 +262,10 @@
 @media  only screen and (max-width: 480px) and (min-width: 461px) {
     .page-indicator{
         display: inline-block;
-        width: 28px;
-        height: 8px;
+        width: 21px;
+        height: 7px;
         border-radius: 5px;
         background-color: #d7d6d6;
-        margin: 0 2.2px 4px 2.2px;
+        margin: 0 2px 4px 2px;
     }
 }
